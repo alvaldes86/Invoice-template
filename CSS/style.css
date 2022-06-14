@@ -8,3 +8,8 @@ main>.container {
     bottom: 0;
     width: 100%;
 }
+
+.container{
+    margin-top: 64px;
+    background-color: rgb(237, 236, 227);
+}
